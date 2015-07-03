@@ -1,0 +1,17 @@
+{
+    "newStorageAccountName": {
+        "value": "brunostoracct"
+    },
+    "adminUsername": {
+        "value": "azureuser"
+    },
+    "adminPassword": {
+        "value": "YourSecretPwd"
+    },
+    "dnsNameForPublicIP": {
+        "value": "brunodnspubip"
+    },
+    "ubuntuOSVersion": {
+        "value": "14.04.0-LTS"
+    }
+}
